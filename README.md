@@ -110,6 +110,6 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 ## Studenten
 
-- Naam
-	- email: e-mailadres
-	- GitHub: github-account
+- Denis Inghelbrecht
+	- email: denis.inghelbrecht@student.kdg.be
+	- GitHub: https://github.com/YKdenis/
